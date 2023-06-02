@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/iam_etukz" target="blank"><img src="https://img.shields.io/twitter/follow/iam_etukz?logo=twitter&style=for-the-badge" alt="iam_etukz" /></a> </p>
 
-- 🔭 I’m currently working on [Zuri Chat Desktop](https://github.com/Emmanuel-Etukudo/zc_desktop_flutter)
-
-- 🌱 I’m currently learning **Flutter and Kotlin**
-
 - 📝 I regularly write articles on [https://etukz.hashnode.dev/](https://etukz.hashnode.dev/)
 
 - 📫 How to reach me **etukzbong@gmail.com**
